@@ -12,6 +12,6 @@ I oppgaven har vi hatt følgende arbeidsfordeling:
 * Maaz har tatt hovedansvar for oppgave 2, 4, og 6
 # Oppgavebeskrivelse
 
-I oppgave 1 så gikk vi frem ved å ...
+
 
 
